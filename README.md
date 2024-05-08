@@ -1,6 +1,4 @@
-# DevOps-Project-2
-
-# Infrastructure as Code with Terraform
+# DevOps-Project-2: Infrastructure as Code with Terraform
 
 This repository documents the journey and key learnings from implementing Infrastructure as Code (IaC) using Terraform, aimed at enhancing efficiency and scalability within cloud-based processes.
 
